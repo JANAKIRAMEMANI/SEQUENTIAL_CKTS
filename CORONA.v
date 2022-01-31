@@ -54,3 +54,5 @@ begin
 	end
 assign  eurika = (state==SA);
 endmodule
+
+//CORONA NAME PATTERN USING STATE DIAGRAM
