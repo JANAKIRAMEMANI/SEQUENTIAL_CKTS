@@ -45,3 +45,5 @@ begin
 	assign eurika = (state == SA2);
 	
 	endmodule
+
+//RARA PATTERN USING STATE DIAGRAM
